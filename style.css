@@ -1,0 +1,46 @@
+body{
+    background-color: white;
+
+
+}
+
+.img{
+    width: 200px; 
+    height: 200px;
+    border-radius: 20px;
+    border: 3px solid black;
+    box-shadow: 4px 4px 14px purple;
+}
+.info{
+     color: #868988;
+     margin: 0;
+     font-style: italic;
+
+}
+
+.soc{
+    background:rgba(128, 0, 128, 0.288);
+    padding: 12px;
+    border-radius: 20px;
+    margin: 20px;
+}
+.contanier{
+    max-width: 750px;
+    margin: auto;
+}
+.box{
+    padding: 15px 20px;
+    background:rgba(128, 0, 128, 0.288) ;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+.list{
+    padding: 0 20px;
+
+}
+ 
+.list li {
+    color: #86898f;
+    margin-bottom:10px ;
+    
+}
